@@ -583,7 +583,6 @@ header {
 .footer {
   background: #0a0808;
   height: 381px;
-  margin-bottom: 100px;
   padding-top: 70px;
 }
 
@@ -719,4 +718,4 @@ header {
   align-items: center;
   justify-content: space-between;
   width: 130px;
-}
+} 
